@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hack-ohio-2019-drip-squad/static/css/main.e62b3416.chunk.css",
+    "main.js": "/hack-ohio-2019-drip-squad/static/js/main.88674a2f.chunk.js",
+    "main.js.map": "/hack-ohio-2019-drip-squad/static/js/main.88674a2f.chunk.js.map",
+    "runtime-main.js": "/hack-ohio-2019-drip-squad/static/js/runtime-main.919549b8.js",
+    "runtime-main.js.map": "/hack-ohio-2019-drip-squad/static/js/runtime-main.919549b8.js.map",
+    "static/js/2.906ea52d.chunk.js": "/hack-ohio-2019-drip-squad/static/js/2.906ea52d.chunk.js",
+    "static/js/2.906ea52d.chunk.js.map": "/hack-ohio-2019-drip-squad/static/js/2.906ea52d.chunk.js.map",
+    "index.html": "/hack-ohio-2019-drip-squad/index.html",
+    "precache-manifest.8c7837f098c7926230afc2d4ddef5c9e.js": "/hack-ohio-2019-drip-squad/precache-manifest.8c7837f098c7926230afc2d4ddef5c9e.js",
+    "service-worker.js": "/hack-ohio-2019-drip-squad/service-worker.js",
+    "static/css/main.e62b3416.chunk.css.map": "/hack-ohio-2019-drip-squad/static/css/main.e62b3416.chunk.css.map",
+    "static/media/nsbe 1.JPG": "/hack-ohio-2019-drip-squad/static/media/nsbe 1.1635fa76.JPG",
+    "static/media/nsbe 3.jpg": "/hack-ohio-2019-drip-squad/static/media/nsbe 3.7602c290.jpg",
+    "static/media/nsbe 4.jpg": "/hack-ohio-2019-drip-squad/static/media/nsbe 4.e9ade06f.jpg",
+    "static/media/nsbe 6.jpg": "/hack-ohio-2019-drip-squad/static/media/nsbe 6.291fd9f0.jpg",
+    "static/media/nsbe 7.jpg": "/hack-ohio-2019-drip-squad/static/media/nsbe 7.794f4da5.jpg",
+    "static/media/nsbe 8.JPEG": "/hack-ohio-2019-drip-squad/static/media/nsbe 8.af22ef0e.JPEG",
+    "static/media/nsbe 9.JPEG": "/hack-ohio-2019-drip-squad/static/media/nsbe 9.613ebb07.JPEG",
+    "static/media/orton hall.jpg": "/hack-ohio-2019-drip-squad/static/media/orton hall.80aa7229.jpg",
+    "static/media/raney.jpg": "/hack-ohio-2019-drip-squad/static/media/raney.aa53724f.jpg",
+    "static/media/students doing things.jpg": "/hack-ohio-2019-drip-squad/static/media/students doing things.df6f609c.jpg",
+    "static/media/swimming.png": "/hack-ohio-2019-drip-squad/static/media/swimming.f46051da.png",
+    "static/media/thompson inside.jpg": "/hack-ohio-2019-drip-squad/static/media/thompson inside.e3b22db0.jpg",
+    "static/media/thompson library.jpg": "/hack-ohio-2019-drip-squad/static/media/thompson library.78d5bbdf.jpg",
+    "static/media/walking.jpg": "/hack-ohio-2019-drip-squad/static/media/walking.56573e5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.919549b8.js",
+    "static/js/2.906ea52d.chunk.js",
+    "static/css/main.e62b3416.chunk.css",
+    "static/js/main.88674a2f.chunk.js"
+  ]
+}
