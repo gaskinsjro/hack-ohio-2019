@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hack-ohio-2019-drip-squad/precache-manifest.8c7837f098c7926230afc2d4ddef5c9e.js"
+  "/hack-ohio-2019-drip-squad/precache-manifest.0688312b8b61cfc4dde0a98d51075bc1.js"
 );
 
 self.addEventListener('message', (event) => {
